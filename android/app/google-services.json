@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676358640512",
+    "project_id": "phishawareapp",
+    "storage_bucket": "phishawareapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676358640512:android:917cefdd88fe0d7ec12765",
+        "android_client_info": {
+          "package_name": "com.phishaware.phishaware"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAknBn2WPnoCgb0zRmPdoQsfcp6USTNiog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
